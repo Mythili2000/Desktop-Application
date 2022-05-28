@@ -13,8 +13,6 @@ Note: A completely web browser based commercial version of these scrapers are av
 Usage
 From a terminal
 
-Clone this project git clone https://github.com/scrapehero-code/amazon-scraper.git and cd into it cd amazon-scraper
-Add a Virtual Environment python3 -m venv .venv (Optional)
 Activate the Virtual Environment source .venv/bin/activate (Optional)
 Install Requirements pip3 install -r requirements.txt
 Scrape Product Details from Product Page
